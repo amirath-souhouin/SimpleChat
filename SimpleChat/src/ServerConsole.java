@@ -1,4 +1,3 @@
-import client.ChatClient;
 import common.ChatIF;
 import java.io.*;
 
