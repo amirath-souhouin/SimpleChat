@@ -47,6 +47,7 @@ public class ServerConsole implements ChatIF {
 	 *            argument is entered.
 	 */
 	public static void main(String[] args) {
+		System.out.println("Bienvenue dans SimpleChat3");
 		int port = 0; // Port to listen on
 
 		try {
